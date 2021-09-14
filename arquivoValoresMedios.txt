@@ -1,0 +1,3 @@
+media: 645.20
+o valor maior: 926
+o valor menor: 232
