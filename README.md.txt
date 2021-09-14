@@ -1,1 +1,0 @@
-Trabalho de ordenação realizado para a cadeira de pesquisa, ordenação e técnicas de armazenamento;
